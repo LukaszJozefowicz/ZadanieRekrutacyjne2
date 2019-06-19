@@ -11,6 +11,6 @@ Należy dostarczyć kod źródłowy oraz skompilowaną aplikację. W przypadku n
 
 --------------------------------------------
 Projekt stworzony w IntelliJ IDEA 2018.3.4 ultimate edition.
-Maven archetyp webapp. Uruchamiany na Tomcat 8.5.28 Baza na PostgreSQL na localhoscie. 
-Skrypty do stworzenia bazy w /src/main/resources/META-INF/sql
+Maven archetyp webapp. Uruchamiany na Tomcat 8.5.28. Baza na PostgreSQL na localhoscie. 
+Skrypty do stworzenia bazy w /src/main/resources/META-INF/sql.
 Model mvc, Spring data, widoki JSP
